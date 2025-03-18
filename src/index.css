@@ -1,0 +1,6 @@
+body {
+  /* background: url('https://api.api-ninjas.com/v1/randomimage?category=nature') no-repeat center center fixed; */
+  background:url(2310-w062-n005-289B-p15-289.jpg);
+  background-size: cover;
+  min-height: 100vh;
+}
